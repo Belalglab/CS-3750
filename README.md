@@ -3,7 +3,8 @@
    
 This project is a full banking application built using the MERN stack (MongoDB, Express, React, Node.js). It includes both a frontend and backend, allowing users to manage accounts, perform transactions, and handle authentication securely. The app is designed to simulate real world banking, making it a great foundation for more complex financial applications.
 
-** Frontend: Built with React, offering an intuitive interface for managing accounts and transactions.
+# frontend:
+Built with React, offering an intuitive interface for managing accounts and transactions.
 Backend: Powered by Express and Node.js, handling everything from user authentication to transaction processing.
 npmstuff: Contains npm-related files and dependencies needed for the project.
 

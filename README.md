@@ -8,6 +8,9 @@ frontend:
 Backend:
    Powered by Express and Node.js, handling everything from user authentication to transaction processing.
 npmstuff: Contains npm-related files and dependencies needed for the project.
+<img width="622" alt="Screenshot 2024-08-14 at 4 46 27 PM" src="https://github.com/user-attachments/assets/0912fbc3-bb4c-4cfc-88d4-d1e2fbd8ee9e">
+<img width="622" alt="Screenshot 2024-08-14 at 4 46 38 PM" src="https://github.com/user-attachments/assets/3446594a-ab4a-4316-9784-56d553c8215e">
+
 
  # FourRow Game
    

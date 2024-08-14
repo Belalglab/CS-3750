@@ -29,6 +29,8 @@ Frontend:
    Built to deliver a smooth and engaging user experience.
 Backend:
    Handles word selection and the logic behind the game.
+   <img width="1512" alt="Screenshot 2024-08-14 at 10 55 02 AM" src="https://github.com/user-attachments/assets/4ce8a3a8-6eba-4fb4-83d0-a1e80522098b">
+
 
  # Hello World
    

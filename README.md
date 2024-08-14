@@ -42,6 +42,8 @@ Backend:
    A basic server that responds with "Hello World" when requested.
 README.md:
    Includes setup instructions and a brief explanation of how the project works.
+   <img width="387" alt="Screenshot 2024-08-14 at 10 58 06 AM" src="https://github.com/user-attachments/assets/def0d406-8a4b-41a8-a8df-c458a978f0ae">
+
 
 # MERN Bank App
 This is another banking app built with the MERN stack. It shares some similarities with the first banking app but might include different features or improvements. It also has separate frontend and backend components, allowing users to manage their accounts and transactions easily.

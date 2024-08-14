@@ -37,12 +37,13 @@ Backend:
 This is a simple "Hello World" application that demonstrates how to connect a frontend with a backend. It’s a basic project designed to help you understand the essentials of full-stack development.
 
 Frontend:
-   Displays "Hello World" by fetching data from the backend.
+   Displays USER Llog in by fetching data from the backend.
 Backend: 
-   A basic server that responds with "Hello World" when requested.
+   A basic server that responds with "you data has been succefuly" when requested.
 README.md:
    Includes setup instructions and a brief explanation of how the project works.
    <img width="387" alt="Screenshot 2024-08-14 at 10 58 06 AM" src="https://github.com/user-attachments/assets/def0d406-8a4b-41a8-a8df-c458a978f0ae">
+<img width="622" alt="Screenshot 2024-08-14 at 11 02 56 AM" src="https://github.com/user-attachments/assets/c2a1c0ad-8f25-40ac-b305-252f61fc0454">
 
 
 # MERN Bank App

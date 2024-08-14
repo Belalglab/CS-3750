@@ -1,3 +1,4 @@
+# Full Stack Classes Projects
 # Banking App
    
 This project is a full banking application built using the MERN stack (MongoDB, Express, React, Node.js). It includes both a frontend and backend, allowing users to manage accounts, perform transactions, and handle authentication securely. The app is designed to simulate real world banking, making it a great foundation for more complex financial applications.
